@@ -1,3 +1,5 @@
+Copyright © [acaranta/docker-minecraft-client](https://github.com/acaranta/docker-minecraft-client)
+
 # Docker container for Minecraft Client
 
 This is a Docker container for [Minecraft Java Client](https://www.minecraft.net).
